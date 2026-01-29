@@ -1,0 +1,27 @@
+# 技術スタック (TECH_STACK)
+
+## Core Frameworks & Language
+- React Native
+- Expo
+- TypeScript
+- Expo Router
+- Bun
+
+## UI/Styling
+- NativeWind
+
+## Forms & Validation
+- React Hook Form
+- Zod
+
+## Authentication
+- Better Auth
+
+## Backend & Database
+- Drizzle
+- Expo SQLite
+
+## Tooling & Services
+- ESLint
+- Prettier
+- date-fns
